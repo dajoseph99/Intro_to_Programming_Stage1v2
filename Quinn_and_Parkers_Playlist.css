@@ -1,0 +1,42 @@
+
+
+.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.big-box{
+  background-color: red;
+  float:left;
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
+  width: auto;
+}
+.playlist{
+    float:left;
+    text-align: center;
+    background-color:purple;
+    border: 3px solid green;
+    width: auto;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.whos-playlist {
+    background-color:pink;
+    margin: auto;
+    border: 3px solid green;
+    padding: 0px 5px 0px 5px;
+}
+
+.song-title {
+    background-color:pink;
+    margin: auto;
+    border: 3px solid green;
+    padding: 0px 5px 0px 5px;
+}
+.video-box iframe	{
+  width:auto;
+  border: 3px solid green;
+
+}
